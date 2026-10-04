@@ -1,0 +1,9 @@
+# Dataset YOLO-Seg de truchas (Ultralytics).
+# Clase 0 = trout  →  debe coincidir con FISH_CLASS_NAMES en config.py
+
+path: .
+train: images/train
+val: images/val
+
+names:
+  0: trout

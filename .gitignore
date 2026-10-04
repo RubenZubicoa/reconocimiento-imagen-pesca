@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# Pesos descargados automáticamente por Ultralytics
+*.pt
+
+# Salidas y subidas locales
+output/*
+!output/.gitkeep
+uploads/*
+!uploads/.gitkeep

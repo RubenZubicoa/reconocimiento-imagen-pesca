@@ -1,0 +1,2 @@
+# Coloca aquí un modelo .pt personalizado (p. ej. trout-seg.pt)
+# y apúntalo con TROUT_MODEL_PATH o el parámetro model_path.
